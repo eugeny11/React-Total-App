@@ -1,4 +1,4 @@
-### React Total App
+# React Total App
 
 React example project with using of general React Hooks, functions, creating React custom hooks and services.
 
