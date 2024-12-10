@@ -1,7 +1,4 @@
----
-
 # ⚛️ React Total App
-
 **React Total App** is a comprehensive example project that demonstrates the core capabilities of React. This application showcases the use of essential React features, including custom hooks, reusable components, API integrations, and advanced state management. It's designed as a practical and educational resource for developers exploring React's potential.
 
 ---
